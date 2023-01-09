@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "accentColor": "#9faec1",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Roboto",
+  "textFontFamily": "Source Sans Pro",
+  "monospaceFontFamily": "Fira Code"
+}

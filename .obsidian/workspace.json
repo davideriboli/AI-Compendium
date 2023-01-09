@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "8fdcd30a7a80b258",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd39e658687afd72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2674410fe6e3d0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a38e755622aa5f70",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a09a1fedccc1b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfb002c4dcbbb63c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e452c47c410c5d89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#arch",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.50852584838867
+  },
+  "right": {
+    "id": "d4c9263e180205d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e06869f8bf63a3ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e577b539dc765c98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "706cd62fc4091033",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1210617145e3a23d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Apri riquadro comandi": false,
+      "markdown-importer:Apri importazione Markdown": false,
+      "workspaces:Gestisci layout delle aree di lavoro": false,
+      "templates:Inserisci modello": false
+    }
+  },
+  "active": "2674410fe6e3d0bb",
+  "lastOpenFiles": [
+    "001_Art/Prompt/001-Prompt.md",
+    "099_Media/Manuali/A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models.pdf",
+    "001_Art/StableDiffusion/002-Dreamstudio.md",
+    "001_Art/StableDiffusion/001-StableDiffusion.md",
+    "README.md",
+    "001_Art/Varia/Varia.md",
+    "099_Media/Manuali/DreamStudio_beta_User_Manual_v1.5.101122.pdf",
+    "docs/Javascript&Web/BrowserSync Server per P5.md",
+    "docs/Bash/Chocolatey 101.md",
+    "docs/Bash/Aggiungere diversi PPA con un singolo comando.md"
+  ]
+}

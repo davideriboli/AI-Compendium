@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "099_Media",
+  "promptDelete": true,
+  "defaultViewMode": "preview",
+  "foldHeading": false,
+  "foldIndent": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "it",
+    "it-IT"
+  ]
+}

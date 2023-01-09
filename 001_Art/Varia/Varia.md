@@ -1,0 +1,2 @@
+- [Make stunning & strange artificial intelligence (ai) art (beginners gude)](https://surrealismtoday.com/beginners-guide-artificial-intelligence-art/)
+- 
